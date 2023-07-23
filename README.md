@@ -1,2 +1,2 @@
 # Leetcode Practice
- Stupid person is praticing excercises
+ A stupid person is practicing exercises
